@@ -671,7 +671,7 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=A time before the present day...
+1=Время до наших дней...
 
 [Events]
 01000000=1,8,0,0
