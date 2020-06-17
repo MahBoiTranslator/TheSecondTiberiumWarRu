@@ -801,11 +801,11 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission 3: Sting of the Scorpion@@
-2=Well done, if the master's plans are going to succeed you will need to be swift and precise.@@
-3=You are ordered to establish a foothold near GDI's largest military depot in Greece.
-4=Construct a base and build up an army. Destroy GDI's production facilities and it will cripple them severly. Your task is the linchpin of the masters plan and must not fail.@@
-5=Objective: Destroy all GDI War Factories.
+1=Миссия 3 - Жало Скорпиона@@Великолепно, если планы Кейна увенчаются успехом, тебе нужно быть быстрым и точным.@@Тебе 
+2=приказано развернуть плацдарм близ самой большой военной базы снабжения ГСБ в Греции. Построй базу и собери армию. Уничтожь 
+3=производственные комплексы ГСБ, и это резко их парализует. Твоя задача - положить основу планам Кейна, и ты обязан не 
+4=подвести.@@Задача: Уничтожьте все Военные Заводы ГСБ.
+
 
 [CellTags]
 

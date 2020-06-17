@@ -156,11 +156,11 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Special Operation - Night Hawk@@
-1=Kane has been experimenting with the effects of Tiberium on innocent civilians in a remote base within the deep forest.
-2=We cannot access this base with ground or air forces so we are sending you a Ghost Commando.
-3=Use him to eliminate all structures connected with these experiments and be careful of snipers in the watch towers. @@
-5=Objective: Destroy all six Mutation Medical Centers.
+1=Спецоперация - Полуночник@@Кейн экспериментирует с эффектами от заражения тиберием на невинных гражданских на удалённой базе 
+2=глубоко в лесу. Мы не может достать эту базу по земле и по воздуху, так что мы посылаем вам Коммандо. Используйте его, чтобы 
+3=уничтожить все здания, связанные с этими экспериментами. И остерегайтесь снайперов на смотровых вышках.@@Задача: Уничтожьте 
+4=все 6 Медицинских Центров Исследования Мутаций.
+
 
 [Events]
 01000000=1,13,0,0

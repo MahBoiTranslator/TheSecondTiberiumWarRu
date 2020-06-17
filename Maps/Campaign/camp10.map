@@ -651,17 +651,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission 10 - Flame of Vengeance@@
-2=Did that fool Xedes think he could escape the brotherhood with such treachery?
-3=Shukura made short work of him and now the Tacitus is in the hands of our glorius leader Kane.@@
-5=GDI has compromised our northern research facility into the Genesis project and must not go unpunished.
-6=Kane is displeased with this turn of events and has sent new orders from his main command base.
-7=We are to send a message to the world they wont soon forget.@@ @@
-8=Build a base on the outskirts of Athens where the UN Headquarters are located.
-9=Produce an army and destroy the hospitals aiding GDI soldiers, then proceed to the United Nations Headquarters and burn it down.@@
-10=Objective: Clear civilian construction site.@@
-11=Objective: Destroy all five civilian hospitals.@@
-12=Objective: Burn down United Nations Headquarters.
+1=Миссия 10 - Пламя Мести@@Этот дурак Зидис думал, что он сможет сбежать из Братства с таким предательством? Шукура расправилась 
+2=с ним, и теперь Тацит в руках нашего великого лидера - Кейна.@@ГСБ саботировал наш северный исследовательский комплекс по 
+3=проекту Генезис, и ГСБ не останется безнаказанным. Кейн недоволен сложившейся ситуацией и прислал новые приказы со своей 
+4=главной базы. Мы пошлём сообщение миру, которое он долго не забудет.@@Постройте базу на окраине Афин, где располагается 
+5=Главный Штаб ООН. Соберите армию и уничтожьте больницы, оказывающие помощь солдатам ГСБ, затем направляйтесь к Главному 
+6=Штабу Организации Объединённых Наций и сожгите его до тла.@@Задача 1: Зачистите гражданскую строительную площадку.@@Задача 2: 
+7=Уничтожьте пять гражданских больниц.@@Задача 3: Уничтожьте Главный Штаб ООН.
+
 
 [Events]
 01000000=1,13,0,0

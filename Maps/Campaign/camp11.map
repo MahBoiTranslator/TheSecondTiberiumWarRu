@@ -339,14 +339,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission 11 - The Mammoth Returns@@
-2=Kane has gone too far, he has destroyed the United Nations and now Nod has the upper hand.
-3=His slaying of countless civilians that believe in a united one world order is an atrocity, and now GDI is all but lost.@@
-4=Because we are without any military or political leadership, power over the Global Defense Inititive falls solely on General Vega.@@
-5=Though he was deemed a traitor and renegade by the U.N. he is our only hope.@@
-6=Vega has managed to locate Nods main command base in Egypt where Kane holds his Genesis project and the Tacitus.
-7=He has devised a final assault with our remaining forces and needs you to help clear the way.@@
-8=Objective: Assist General Vega in clearing a path to Nods main command base. Vega must survive.
+1=Миссия 11 - Мамонт Возвращается@@Кейн зашёл слишком далеко. Он уничтожил ООН, и теперь у Нод превосходство. Его убийство 
+2=бесчисленного количества гражданских, которые верили в единый мировой порядок, является зверством, а ГСБ теперь почти 
+3=уничтожено.@@Из-за отсутствия любой военного и политического лидерства вся власть над Глобальным Советом Безопасности пала 
+4=исключительно на генерала Вегу.@@Хоть он и был признан ООН, как предатель и ренегат, он наша единственная надежда.@@Веге 
+5=удалось найти главную базу Нод в Египте, где Кейн расположил свой проект Генезис и Тацит. Он разработал последнюю 
+6=полномасштабную атаку всеми нашими оставшимися силами, и необходимо, чтобы вы помогли ему расчистить путь.@@Задача: 
+7=Помогите генералу Веге расчистить путь к главной базе Нод. Вега должен выжить.
+
 
 [CellTags]
 33030=01000048

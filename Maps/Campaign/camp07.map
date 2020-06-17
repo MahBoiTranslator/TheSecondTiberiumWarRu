@@ -971,10 +971,9 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission 7 - Wayward Artifact@@
-2=We made it safely back into GDI territory and have touched down at a remote Command Center.
-3=Search the desert for the location of the Tacitus. We need to be careful, Nod may already be in the area.@@
-10=Objective: Construct a base within the desert and aquire the Tacitus before Nod does.@@
+1=Миссия 7 - Капризный Артефакт@@Мы успешно вернули Вегу на территорию ГСБ, и он уже приземлился в ближайшем Командном Центре. 
+2=Исследуйте пустыню на местоположение Тацита. Будьте осторожны, Нодовцы, возможно, уже в регионе.@@Задача: Разверните базу в 
+3=пустыне и заполучите Тацит до того, как это сделает Нод.
 
 [CellTags]
 

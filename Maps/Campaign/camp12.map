@@ -1253,13 +1253,12 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission 12 - Regenesis@@
-1=It all comes down to this, the final battle.@@
-2=Kane has constructed his main command base on the hills to the north west.
-3=That is where we will find him and his mysterious Genesis project.
-4=I'm sure he's fortified it with immense base defenses so we must blast our way in.
-5=I don't need to tell you the importants of this final assault so, fight well commander. @@
-6=OBJECTIVE: Use any means necessary to destroy Kane's command structure along with him and his Genesis project.
+1=Миссия 12 - Ре-Генезис@@Всё свелось к этому, к последней битве.@@Кейн построил главную базу в горах на северо-западе. Там 
+2=мы сможем найти его и его таинственный проект Генезис. Я уверен, он укрепил её огромным количеством оборонительных сооружений, 
+3=так что мы должны проложить себе путь сквозь оборону. Я не считаю нужным говорить вам о важности этой последней осады, так что 
+4=деритесь не на жизнь, а насмерть, командир.@@Задача: Используйте любые методы, чтобы уничтожить Пирамиду Генезис и Кейна вместе 
+5=с ней, а также вместе с его проектом Генезис.
+
 
 [Events]
 01000000=1,13,0,10
