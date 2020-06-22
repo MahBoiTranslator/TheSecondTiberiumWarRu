@@ -22,5 +22,5 @@
 ## Прочая информация
 Все последние новости по локализатору и моду появляются в группах в ВК:
 
-	https://vk.com/tiberiansun
 	https://vk.com/cncseries
+	https://vk.com/tiberiansun
