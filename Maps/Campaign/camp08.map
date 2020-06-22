@@ -886,9 +886,11 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Миссия 8: Слишком далеко@@Тацит был найден, однако до того, как командир Вега его заполучил, Прим Зидис захватил его для 
-2=своих целей. Он предал Братство и своих подчинённых, а теперь пытается бежать с артефактом через территорию ГСБ.@@Задача: 
-3=Обеспечьте побег Прима Зидиса с Тацитом, избегая патрулей ГСБ.
+1=Mission 8 - A Bridge Too Far@@
+2=The Tacitus was discovered but before Commander Vega could retrieve it, Primus Xedes took it for himself.
+3=He has betrayed the brotherhood and his men and now is attempting to flee with the artifact through GDI territory.
+4=@@
+10=Objective: Ensure Primus Xedes escapes with the Tacitus while avoiding GDI patrols.
 
 [Events]
 01000000=1,13,0,4

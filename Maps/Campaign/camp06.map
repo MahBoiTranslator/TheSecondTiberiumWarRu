@@ -730,14 +730,17 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Миссия 6 - Взмыть в Небо@@Вега: Много лет назад мне поручили дипломатическую миссию по созданию альянса с фракцией Мутантов. 
-2=Пока я там был, я имел дружественные отношения с Вожаком Мутантов, а в ответ он поделился со мной информацией.@@Мутанты знали о 
-3=древней цивилизации, которая жила много лет тому назад, до тех пор, пока в один день она не была таинственно уничтожена. Лидер 
-4=Нод, Кейн, узнал это и попытался заполучить эти секреты. Он обнаружил принадлежавшее им устройство известное как Саркофаг.@@
-5=Годами он извлекал его энергию, которая продлевала его жизнь, но неизвестно какой ценой.@@Есть информация, что Братство 
-6=обнаружило ещё одно устройство, которое гораздо старше Саркофага, названное Тацит. Мы обязаны не позволить, чтобы Тацит попал 
-7=в руки Кейна, иначе это будет катастрофично.@@Задача 1: Верните Кодиак и сбегите.@@Задача 2: Вега должен выжить.
-
+1=Mission 6 - Take to the Skies@@
+2=Vega: Years ago I was tasked with the diplomatic mission of forming an alliance with the Mutant faction.
+3=While I was there I became friends with the Mutant Chieftain and so he shared information with me. @@
+4=The mutants knew of a ancient civilization that lived many years ago until one day they were mysteriously destroyed.
+5=Nod's leader Kane discovered this and sought to learn their secrets.
+6=He uncovered a device belonging to them known as the Sarcophagus.@@ @@
+7=For years he tapped into it's power which extended his life but at a cost I do not know.@@
+9=There is news that the Brotherhood has discovered another device far greater than that of the Sarcophagus called the "Tacitus".
+10=We must not let it fall into Kane's hands else it could be catastrophic.@@
+11=Objective: Return to the Kodiak and escape.@@
+12=Objective: Vega must survive.
 
 [CellTags]
 65040=01000020

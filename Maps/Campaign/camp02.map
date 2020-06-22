@@ -648,10 +648,13 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Миссия 2 - Возрождение Братства@@Добро пожаловать брат. Мы восстаём из пепла, как и предвидел Кейн, чтобы занять наше 
-2=законное место. Пришло время послать сообщение о нашем возвращении.@@ГСБ содержит своё высшее командование в удалённом 
-3=Командном Центре, спрятанном в лесах Канады. Возглавьте спецоперацию и уничтожьте Командный Центр. Не подведите или твоя 
-4=судьба будет такая же, как и неверных ГСБшников.@@Задача: Уничтожьте Центральный Штаб ГСБ.
+1=Mission 2: Brotherhood Reborn@@
+2=Welcome brother, we have risen from the ashes to claim our rightful place as Kane foreseen.
+3=The time has come to send the message of our return.@@
+5=GDI holds their high ranking leaders in a remote Command Center hidden within the forests of Canada.
+6=Take a covert strike team and destroy the Command Center eliminating their leadership.
+7=Do not fail or your fate will be that of the GDI infidels.@@
+8=Objective: Destroy GDI Central Command.
 
 [CellTags]
 39069=01000017

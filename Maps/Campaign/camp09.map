@@ -809,10 +809,11 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Миссия 9 - Сход с Рельс@@Убийца, что украл Тацит, неожиданно сбежал с маячком на борту своего поезда. Последний раз сигнал 
-2=маячка был замечен в тундре на севере. Именно туда вы и отправитесь. Так же в регионе были замечены большие всплески энергии, 
-3=которые сигнализируют, что Нод что-то замышляет.@@Задача: Найдите утерянный поезд и его угонщика.
-
+0=Mission 9 - Derailment@@
+1=The Assassin that stole the Tacitus fled unaware that a tracking device was onboard his train.
+2=The tracking device was last detected in the tundra to the north, which is where you'll be going.
+3=A large energy signature was also detected in the area which means Nod is up to something.@@
+4=Onjective: Locate the lost train and it's hijacker.
 
 [Events]
 01000000=1,13,0,0

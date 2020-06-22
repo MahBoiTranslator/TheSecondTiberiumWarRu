@@ -656,11 +656,11 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Миссия 1 - Начало@@Разведка обнаружила малую группу фанатиков, ответственную за недавние мятежи, которая зовёт себя 
-2="Чёрная Рука". Генеральная Ассамблея Организации Объединенных Наций призвала к скорейшему и незамедлительному прекращению 
-3=жизни этих террористов и их дела. Мы не можем позволить потерять наш новый мировой порядок из-за каких-то экстремистских 
-4=идеалов.@@Задача: Уничтожьте всех террористов Чёрной Руки.
-
+1=Mission 1: The Beginning@@
+2=Intelligence has revealed a small fanatical group responsible for the recent uprisings calling themselves the"Black Hand".
+3=The United Nations general assembly has called for a swift and promptly end to these terrorists and their cause.
+4=We cannot afford to lose our new world order to such extremest ideals.@@
+5=Objective: Eliminate all remnant Black Hand terrorists.
 
 [CellTags]
 61074=01000028

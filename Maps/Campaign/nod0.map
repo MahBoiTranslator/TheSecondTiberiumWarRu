@@ -1549,13 +1549,12 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Спецоперация - В Обороне Технологии@@Братство не смогло защититься от растущего числа новых войск ГСБ Веги, но это ненадолго.@@
-2=Мы разрабатываем новую маскировочную технологию, которая использует центр управления сетью стелс генераторов, позволяя нам 
-3=развернуть стелс генераторы зависящие от главного системного ядра. Это нам сильно поможет, т.к. Кейн открывает нам свои планы,
-4= в то же время мы должны гарантировать, что эта новая технология останется целой.@@Защищайте новый Центр Управления Стелс 
-5=Генераторами любой ценой, пока силы ГСБ осаждают наши позиции днём. Новая маскировочная система будет полностью в рабочем 
-6=состоянии к сумеркам.@@Задача: Защитите Центр Управления Стелс Генераторами и продержитесь день.
-
+1=Special Operation - In Defense of Technology@@
+2=The Brotherhood has been failing to defend against the increasing number of Vega's new GDI forces, but not for long.@@
+3=We have been developing new stealth technology which utilizes a stealth hub network allowing us to deploy stealth emitters from a main system core.
+4=This will aid us greatly as Kane's vision unfolds before us, in the mean time we must ensure this new technology remains whole.@@ @@
+5=Defend the new Stealth Generator Hub at all costs as GDI forces begin to assault our position at daybreak, the new stealth system should be operational by nightfall. @@
+8=Objective: Defend the Stealth Generator Hub and last out the day.
 
 [Events]
 01000000=1,13,0,0

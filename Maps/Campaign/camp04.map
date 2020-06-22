@@ -763,14 +763,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Миссия 4 - Борясь за Выживание@@Нод приняло близко к сердцу, увидев, что мы сражаемся за существование. Их численность 
-2=гораздо больше, чем мы рассчитывали, и наши силы разбиты. Наша сеть снабжения была подорвана, и наше руководство было 
-3=уничтожено тщательно спланированной террористической атакой. Мы не можем надеется на выживание в текущей ситуации, поэтому 
-4=мы должны пойти на крайние меры.@@Вы отправляетесь на далёкий север, чтобы установить контакт с бывшим командиром, которого 
-5=зовут Вега.@@Он был членом команды ГСБ по спецоперациям, которой дали задание формировать отношения с фракцией Мутантов, до 
-6=тех пор, как ушёл в самоволку. Его видели последний раз в Сибири, крае России, расположенный в глубокой Тундре. Отправьтесь 
-7=туда и переправьте его. Он, возможно, предатель, однако его лидерские качества нам жизненно необходимы, если мы хотим выжить.
-8=@@Задача 1: Восстановите старую базу ГСБ.@@Задача 2: Найдите и переправьте командира Вегу.
+1=Mission 4 - Struggling to Survive@@
+3=Nod has taken it personally to see us ridden from existance.
+4=Their number is far greater than expected and our forces are being over run.
+5=Our supply network has been severed and our leadership was wiped out by a carefully planned terrorist attack.
+6=We cannot hope to survive in these present conditions, so we are forced to take extreme action.@@
+7=You are being sent far north to make contact with a ex-commander named Vega.@@
+8=@@
+9=He was once in command of GDI special operations tasked to form relations with the Mutant faction until he went AWOL.
+10=He has been last seen in Siberia a Russian province located in the deep Tundra. Go there and extract him.
+11=He may be considered a traitor, but his leadership is vital if we wish to survive.@@
+12=Objective 1: Restore the old GDI base.@@
+13=Objective 2: Contact and extract Commander Vega.@@
 
 [CellTags]
 

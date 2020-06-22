@@ -773,8 +773,9 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Миссия 5 - Сила Кристалла@@Тем временем, вернувшись на территорию Братства, солдаты Нод ожидают своих следующих приказов 
-2=в опасных землях, заражённых тиберием.@@Задача: Ожидайте приказов от Прима Зидиса.
+1=Mission 5 - Power of the Crystal@@
+2=Meanwhile back within Brotherhood territory, Nod soldiers await their next orders within dangerous Tiberium infested lands.@@
+3=OBJECTIVE: Wait for orders from Primus Xedes.
 
 [CellTags]
 
