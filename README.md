@@ -2,7 +2,7 @@
 
 Данный репозиторий содержит историю разработки русификатора для мода The Second Tiberium War для игры Tiberian Sun. Сам мод вы можете скачать с сайта [moddb.com](https://www.moddb.com/mods/the-second-tiberium-war) 
 
-Ссылка на актуальный сейчас локализатор: [тык](https://github.com/MahBoiTranslator/TheSecondTiberiumWarRu/archive/v2.42-04.zip)
+Ссылка на актуальный сейчас локализатор: [тык](https://github.com/MahBoiTranslator/TheSecondTiberiumWarRu/archive/v2.42-05.zip)
 
 Инструкция по установке локализатора: [тык](https://github.com/MahBoiTranslator/TheSecondTiberiumWarRu/tree/TSTW_2.42_RU#описание-установки)
 
