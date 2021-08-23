@@ -1,4 +1,5 @@
-# Русификатор для мода The Second Tiberium War версии 2.42
+# Русификатор модификации The Second Tiberium War для игры C&C: Tiberian Sun
+[![Github All Releases](https://img.shields.io/github/downloads/MahBoiTranslator/TheSecondTiberiumWarRu/total.svg)](https://github.com/MahBoiTranslator/TheSecondTiberiumWarRu/releases)
 
 ## Описание локализатора
 Данный локализатор является неофициальным языковым патчем для мода The Second Tiberium War, который переводит интерфейс и почти весь текст мода с английского языка на русский язык. Перевод является любительским, поэтому возможны неточности перевода.
