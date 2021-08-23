@@ -9,4 +9,4 @@ timeout /t 3
 
 : Запуск клиента
 cd _Test
-start TwistedInsurrection.exe
+"The Second Tiberium War.exe"
