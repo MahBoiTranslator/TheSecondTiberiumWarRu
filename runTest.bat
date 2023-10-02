@@ -8,5 +8,4 @@ xcopy /h /y /c /r /s Source\ _Test\
 timeout /t 3
 
 : Запуск клиента
-cd _Test
-"The Second Tiberium War.exe"
+start "" "_Test\The Second Tiberium War.exe"
