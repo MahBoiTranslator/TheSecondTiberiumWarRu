@@ -912,11 +912,16 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: From the Ashes@@
-2=Welcome my brother, though our forces in the first Tiberium war was destroyed at the battle of Sarajevo we assure you, the spirit of the Brotherhood lived on.@@
-4=Many third world countries reject the United Nations dictatorship and because of this, they have become homes of the indigent.
-5=We will recruit these forsaken souls to join us, then we will usher in a new age of peace ruled by the Brotherhood of Nod.@@
-7=Objective: Gather recruits from the local towns and villages.
+1=Миссия: Из пепла@@
+2=Приветствую, брат мой. Несмотря на то, что наши войска были уничтожены в ходе Первой Тибериевой Войны в битве при Сараево, мы уверяем вас, что дух Братства продолжает жить.@@
+3=Множество стран третьего мира отвергают диктатуру ООН, и поэтому они стали домом бедствующих.@@
+4=Мы убедим эти покинутые души присоединиться к нам, а затем мы войдём в новый век мира под руководством Братства Нод.@@
+5=Задача: Соберите новобранцев из местных городов и деревней.
+; 1=Mission: From the Ashes@@
+; 2=Welcome my brother, though our forces in the first Tiberium war was destroyed at the battle of Sarajevo we assure you, the spirit of the Brotherhood lived on.@@
+; 4=Many third world countries reject the United Nations dictatorship and because of this, they have become homes of the indigent.
+; 5=We will recruit these forsaken souls to join us, then we will usher in a new age of peace ruled by the Brotherhood of Nod.@@
+; 7=Objective: Gather recruits from the local towns and villages.
 
 [Events]
 01000000=1,8,0,0
