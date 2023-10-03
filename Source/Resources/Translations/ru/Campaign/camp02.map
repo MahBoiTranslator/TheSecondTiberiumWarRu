@@ -9,7 +9,6 @@ TechLevel=-1
 TechLevel=-1
 
 [GAVTUR]
-Name=Vulcan Turret
 TechLevel=-1
 
 [INREDLMP]
@@ -973,12 +972,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: Incursion@@
-2=After years of silence the brotherhood has finally returned and with a fierce vengeance. Enemy forces have began assaulting our fortifications all over Europe.
-4=You are ordered to defend one of our outposts as long as possible until it can receive reinforcements.
-5=Once reinforcements have arrived locate and destroy the Nod base that must be somewhere in the area.@@
-8=Objective: Survive until reinforcements can arrive.@@
-9=Objective: Locate and destroy the Nod base in the area.
+1=Миссия: Наступление@@
+2=После многолетней тишины Братство полноценно вернулось и жаждит мести. Вражеские войска начали осаду наших укреплений по всей Европе.
+3=Вам приказали оборонять один из наших аванпостов настолько долго, пока не прибудет наше подкрепление.
+4=Как только подкрепление прибудет - найдите и уничтожьте базу Нод, которая расположена где-то в регионе.@@
+5=Задача: Защитите ваши позиции до прибытия подкрепления.@@
+6=Задача: Найдите и уничтожьте базу Нод в регионе.
+; 1=Mission: Incursion@@
+; 2=After years of silence the brotherhood has finally returned and with a fierce vengeance. Enemy forces have began assaulting our fortifications all over Europe.
+; 4=You are ordered to defend one of our outposts as long as possible until it can receive reinforcements.
+; 5=Once reinforcements have arrived locate and destroy the Nod base that must be somewhere in the area.@@
+; 8=Objective: Survive until reinforcements can arrive.@@
+; 9=Objective: Locate and destroy the Nod base in the area.
 
 [Events]
 01000000=1,13,0,5

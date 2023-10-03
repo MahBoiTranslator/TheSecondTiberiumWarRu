@@ -979,12 +979,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: Decisive Strike@@
-2=The time has come to send a message of fire to the arrogant first world nations.@@
-4=GDI holds a meeting of high ranking officers each year in a remote Command Center located in Canada.
-5=You will take a covert strike team and destroy the Command Center while their meeting is taking place.
-6=This will deal a savage blow for the Brotherhood and let the rest of the world know, we are back!@@
-7=Objective: Destroy GDI Central Command.
+1=Миссия: Решительный удар@@
+2=Пришло время отправить огненное сообщение высокомерным странам первого мира.@@
+3=ГСБ проводит собрание высокоранговых офицеров ежегодное в отдельном штабе, расположенном в Канаде. 
+4=Вы возьмёте под командование ударную группу и уничтожите штаб, пока они проводят собрание. 
+5=Это нанесёт мощныый удар по ГСБ и даст всему миру узнать, что мы вернулись!@@
+6=Задача: Уничтожьте Центральный штаб ГСБ.
+; 1=Mission: Decisive Strike@@
+; 2=The time has come to send a message of fire to the arrogant first world nations.@@
+; 4=GDI holds a meeting of high ranking officers each year in a remote Command Center located in Canada.
+; 5=You will take a covert strike team and destroy the Command Center while their meeting is taking place.
+; 6=This will deal a savage blow for the Brotherhood and let the rest of the world know, we are back!@@
+; 7=Objective: Destroy GDI Central Command.
 
 [CellTags]
 32099=01000036
