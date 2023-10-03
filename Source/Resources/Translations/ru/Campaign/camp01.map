@@ -9,11 +9,11 @@ CarriesCrate=yes
 SoloCrateMoney=500
 
 [E1]
-Name=U.N. Peace Keeper
+Name=Миротворец ООН;U.N. Peace Keeper
 Nominal=yes
 
 [E2]
-Name=U.N. Soldier
+Name=Солдат ООН;U.N. Soldier
 Nominal=yes
 
 [ENGINEER2]
@@ -23,7 +23,7 @@ TechLevel=-1
 TechLevel=-1
 
 [MARINE]
-Name=U.N. Peace Keeper
+Name=Миротворец ООН;U.N. Peace Keeper
 Nominal=yes
 
 [NALASR]
