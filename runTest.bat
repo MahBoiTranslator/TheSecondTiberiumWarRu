@@ -5,7 +5,8 @@ mkdir _Test
 xcopy /h /y /c /r /s Source\ _Test\
 
 : Задержка необходима для того, чтобы файлы успели скопироваться
-timeout /t 3
+timeout /t 3 > nul
 
 : Запуск клиента
-start "" "_Test\The Second Tiberium War.exe"
+cd _Test
+start "" "The Second Tiberium War.exe"
