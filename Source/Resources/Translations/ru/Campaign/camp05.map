@@ -863,15 +863,24 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: Take to the Skies@@
-2=Years ago lieutenant Joseph Shepard was tasked with a mission to uncover the source of the brotherhood's advanced technology.
-3=This brought him to the northern tundra region of Russia where the concentration of the current mutant faction resides.@@
-4=While there the clan of mutants accepted him as one of their own and bestowed upon him the name of Vega, meaning "One to unite us".@@ @@
-5=Over the months of research he discovered evidence of an ancient civilization which spoke of the pre-existince of Tiberium on Earth.
-6=Such knowledge and more was kept within a repository artifact called the "Tacitus" who's location is currently unknown.@@
-7=If Vega has discovered the location of the Tacitus then we must recover it as soon as possible.
-8=There is no telling what horrors may arise if Kane gets his hands upon it before we do.
-11=@@Objective: Board the Kodiak and return to GDI territory.
+1=Миссия: Подняться в небо@@
+2=Годами ранее лейтенант Джозеф Шепард был отправлен на миссию, чтобы раскрыть источник продвинутых технологий Братства. 
+3=Это привело его в регионы северных тундр России, где расположена текущая фракция мутантов.@@
+4=В то время местное племя мутантов приняло его как своего и даровало имя Вега, означающее "Тот, кто объединит нас".@@
+5=После месяцев исследований он обнаружил доказательства существования древней цивилизации, которая предсказывала появление тиберия на Земле. 
+6=Такое знание и другие были сохранены внутри артифакта-хранилища, названного "Тацит", местонахождение которого сейчас неизвестно.@@
+7=Если Вега найдёт местонахождение Тацита, то мы должны заполучить его как можно скорее.
+8=Неизвестно, какие ужасы могут появиться, если Кейн получит его в свои руки раньше нас.@@
+9=Задача: Захватите Кадьяк и вернитесь на территорию ГСБ.
+; 1=Mission: Take to the Skies@@
+; 2=Years ago lieutenant Joseph Shepard was tasked with a mission to uncover the source of the brotherhood's advanced technology.
+; 3=This brought him to the northern tundra region of Russia where the concentration of the current mutant faction resides.@@
+; 4=While there the clan of mutants accepted him as one of their own and bestowed upon him the name of Vega, meaning "One to unite us".@@ @@
+; 5=Over the months of research he discovered evidence of an ancient civilization which spoke of the pre-existince of Tiberium on Earth.
+; 6=Such knowledge and more was kept within a repository artifact called the "Tacitus" who's location is currently unknown.@@
+; 7=If Vega has discovered the location of the Tacitus then we must recover it as soon as possible.
+; 8=There is no telling what horrors may arise if Kane gets his hands upon it before we do.
+; 11=@@Objective: Board the Kodiak and return to GDI territory.
 
 [Events]
 01000000=1,8,0,0

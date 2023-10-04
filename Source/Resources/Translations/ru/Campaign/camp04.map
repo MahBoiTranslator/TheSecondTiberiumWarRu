@@ -61,7 +61,7 @@ Sight=0
 Sight=0
 
 [VEGA]
-Name=Joseph
+Name=Джозеф;Joseph
 Immune=yes
 
 
@@ -984,15 +984,24 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: Struggling to Survive@@
-3=Nod has taken it personally to see us destroyed and their number is greater than anticipated.
-5=We cannot survive in these present conditions so we are forced to take extreme action.@@
-6=I am sending you north to locate a soldier named Joseph Shepard who was once a valuable member of GDI until a tragedy struck him.
-8=He then ran off with military supplies and has been since declared a renegade.
-9=His last known whereabouts was Siberia, a province located in central Russia.@@
-11=Go to Siberia, locate Joseph and bring him back. He may be an outlaw in the eyes of central command but what he knows about the brotherhood could be our only means of deliverance.@@
-12=Objective 1: Locate and restore the old GDI base.@@
-13=Objective 2: Contact and extract lieutenant Joseph.@@
+1=Миссия: Борьба за выживание@@
+2=Нод болеет душой за наше уничтожение, а их численность больше, чем мы предполагали.
+3=Мы не можем выживать в текущих условиях, поэтому нацелены принять крайние меры.@@
+4=Вас отправляют на север найти солдата по имени Джозеф Шепард, который был важной единицей в ГСБ, пока его не настигла трагедия.
+5=После неё он сбежал вместе с военным снаряжением и с тех пор объявлен дезертиром.
+6=Его последним известным местонахождением была Сибирь - регион, расположенный в центре России.@@
+7=Отправляйтесь в Сибирь, найдите Джозефа и верните его. Он вне закона в глазах верховного командования, однако то, что он знает о Братстве, может быть нашей единственной надежной на спасение.@@
+8=Задача 1: Найдите и восстановите старую базу ГСБ.@@
+9=Задача 2: Найдите и захватите лейтенанта Шепарда.@@
+; 1=Mission: Struggling to Survive@@
+; 3=Nod has taken it personally to see us destroyed and their number is greater than anticipated.
+; 5=We cannot survive in these present conditions so we are forced to take extreme action.@@
+; 6=I am sending you north to locate a soldier named Joseph Shepard who was once a valuable member of GDI until a tragedy struck him.
+; 8=He then ran off with military supplies and has been since declared a renegade.
+; 9=His last known whereabouts was Siberia, a province located in central Russia.@@
+; 11=Go to Siberia, locate Joseph and bring him back. He may be an outlaw in the eyes of central command but what he knows about the brotherhood could be our only means of deliverance.@@
+; 12=Objective 1: Locate and restore the old GDI base.@@
+; 13=Objective 2: Contact and extract lieutenant Joseph.@@
 
 [CellTags]
 
