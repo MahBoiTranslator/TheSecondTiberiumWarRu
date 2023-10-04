@@ -698,7 +698,8 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Meanwhile back within Nod territory...@@
+1=Где-то на территории Нод...@@
+; Meanwhile back within Nod territory...@@
 
 [Events]
 01000000=1,0,0,0
