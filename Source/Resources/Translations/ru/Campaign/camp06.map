@@ -332,12 +332,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission: Power of the Crystal @@
-1=The master requires large amounts of Tiberium for the development of the Genesis project.
-2=You are ordered to reconstruct one of our forgotten outposts in Italy to a harvest facility.
-3=Conditions will be harsh as this area is near the original location where Tiberium had first been discovered.
-4=Harvest the required amount within the time limit given by Primus Xedes, else he should punish you for your lack of motivation.
-5=@@Objective: Harvest 35,000 credits of Tiberium before the time limit expires.
+1=Миссия: Сила кристалла.@@
+2=Владыка требует огромное количества тиберия для разработок проекта Генезис.
+3=Вам приказано перестроить один из забытых аванпостов в Италии в добывающий комплекс.
+4=Условия будут суровыми, т.к. этот регион расположен близко к первоначальному месту обнаружения тиберия.
+5=Соберите достаточно ресурсов за время, отведённое Примом Зидисом, иначе он накажет вас за недостатком мотивации.@@
+6=Задача: Соберите 35,000 кредитов до истечения таймера.
+; 0=Mission: Power of the Crystal @@
+; 1=The master requires large amounts of Tiberium for the development of the Genesis project.
+; 2=You are ordered to reconstruct one of our forgotten outposts in Italy to a harvest facility.
+; 3=Conditions will be harsh as this area is near the original location where Tiberium had first been discovered.
+; 4=Harvest the required amount within the time limit given by Primus Xedes, else he should punish you for your lack of motivation.
+; 5=@@Objective: Harvest 35,000 credits of Tiberium before the time limit expires.
 
 [Events]
 01000000=1,8,0,0
