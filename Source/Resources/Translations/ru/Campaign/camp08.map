@@ -926,11 +926,16 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: Beneath the Surface@@
-2=All our information points to the location of the Tacitus being underground within this cavern complex.
-3=How the Nod commander knew of this place is not known but we must ensure we aquire it before he does.@@
-4=Be careful, this cavern looks to have been inhabited ages ago so who knows what we might find down here...@@
-10=Objective: Retrieve the Tacitus before Nod does.
+1=Миссия: Под поверхностью.@@
+2=Все наши данные сходятся в том, что местоположение Тацита находится под землёй в комплексе пещер.
+3=Как командир нодовцев узнал это место - неизвестно. Но мы должны убедиться, что заполучим устройство раньше него.@@
+4=Будьте осторожны. Похоже, что эти пещеры были обитаемы много лет назад, и кто знает, что мы найдём в них...@@
+5=Задача: Заполучите Тацит раньше Нод.
+; 1=Mission: Beneath the Surface@@
+; 2=All our information points to the location of the Tacitus being underground within this cavern complex.
+; 3=How the Nod commander knew of this place is not known but we must ensure we aquire it before he does.@@
+; 4=Be careful, this cavern looks to have been inhabited ages ago so who knows what we might find down here...@@
+; 10=Objective: Retrieve the Tacitus before Nod does.
 
 [CellTags]
 120082=01000067
