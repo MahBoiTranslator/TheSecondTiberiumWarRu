@@ -1026,11 +1026,16 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: Within the Sands@@
-2=We've made it safely back with the Kodiak and have touched down at a remote research outpost not far from shore.
-4=Lets grab some supplies then head into the desert to the west where the location of the Tacitus should be.
-5=There should be no opposition as we are the only ones that should be here.@@
-10=Objective: Search for the location of the Tacitus and recover it.
+1=Миссия: В песках.@@
+2=Мы в безопасности вернулись на Кадьяке и приземлились вблизи удалённого исследовательского авнапоста неподалёку от побережья.
+3=Давайте же возьмём немного припасов, а затем направимся в пустыню на запад, где должен быть расположен Тацит.
+4=Сопротивления быть не должно, поскольку мы единственные, кто должен быть здесь.@@
+5=Задача: Найдите Тацит и захватите его.
+; 1=Mission: Within the Sands@@
+; 2=We've made it safely back with the Kodiak and have touched down at a remote research outpost not far from shore.
+; 4=Lets grab some supplies then head into the desert to the west where the location of the Tacitus should be.
+; 5=There should be no opposition as we are the only ones that should be here.@@
+; 10=Objective: Search for the location of the Tacitus and recover it.
 
 [Events]
 01000000=1,19,0,0
