@@ -1196,12 +1196,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: Wayward Artifact@@
-2=The Tacitus was recovered as planned but before it could be placed in the hands of our leader Kane, Xedes took it for himself.
-3=He has let down the Brotherhood for the last time and is now attempting to flee with the artifact through GDI territory.
-4=Assist him in avoiding patrols and making his way to his destination.
-5=Why you ask, because is the will of Kane.@@
-6=Objective: Ensure Primus Xedes makes it to his destination unharmed.
+1=Миссия: Путеводный артифакт.@@
+2=Тацит заполучен, как и было запланировано. Однако перед тем, как устройство будет отдано в руки нашего пророка Кейна, Зидис взял его для себя.
+3=Он разочаровал Братство последний раз, и сейчас пытается сбежать с артифактом через территорию ГСБ.
+4=Помогите ему избежать патрули и достигнуть его пункта назначения.
+5=Почему, вы спрашиваете? Такова воля Кейна.@@
+6=Задача: Сопроводите в целости и сохранности Прима Зидиса до пункта назначения.
+; 1=Mission: Wayward Artifact@@
+; 2=The Tacitus was recovered as planned but before it could be placed in the hands of our leader Kane, Xedes took it for himself.
+; 3=He has let down the Brotherhood for the last time and is now attempting to flee with the artifact through GDI territory.
+; 4=Assist him in avoiding patrols and making his way to his destination.
+; 5=Why you ask, because is the will of Kane.@@
+; 6=Objective: Ensure Primus Xedes makes it to his destination unharmed.
 
 [Events]
 01000000=1,13,0,4
