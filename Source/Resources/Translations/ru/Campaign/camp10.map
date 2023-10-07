@@ -1141,12 +1141,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission: Ensnared@@
-1=We've found the Nod traitor Xedes dead at one of our transport depots, and the nearby cargo train has gone missing.
-2=We believe he was killed by one of Kane's black hand assassins which then proceeded to hijack one of our trains to escape.
-3=To our benefit the freight transport was equipped with a homing device and we've managed to track it to a location in Norway.
-4=Go there, construct a base and begin searching for the lost train it's cargo.
-5=@@Objective: Locate the lost train and it's Hijacker.
+1=Миссия: В плену.@@
+2=Мы нашли предателя Нод, Зидиса, мёртвым рядом с одним из наших транспортных депо в то время, как грузовой поезд угнали.
+3=Мы считаем, что он был убит одним из ассасинов Чёрной руки, который затем сбежал на поезде.
+4=К нашему счастью этот поезд был снабжён устройством слежения, и нам удалось отследить его местоположение в Норвегии.
+5=Отправляйтесь туда, разверните базу и начните поиск потерянного поезда вместе с грузом.@@
+6=Задача: Найдите потерянный поезд и его угонщика.
+; 0=Mission: Ensnared@@
+; 1=We've found the Nod traitor Xedes dead at one of our transport depots, and the nearby cargo train has gone missing.
+; 2=We believe he was killed by one of Kane's black hand assassins which then proceeded to hijack one of our trains to escape.
+; 3=To our benefit the freight transport was equipped with a homing device and we've managed to track it to a location in Norway.
+; 4=Go there, construct a base and begin searching for the lost train it's cargo.
+; 5=@@Objective: Locate the lost train and it's Hijacker.
 
 [Events]
 01000006=1,8,0,0
