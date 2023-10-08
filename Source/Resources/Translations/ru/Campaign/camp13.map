@@ -6,7 +6,7 @@
 TechLevel=2
 
 [CAHOSP]
-Name=Genetic Testing Facility
+Name=Комплекс Генетических Тестирований;Genetic Testing Facility
 Strength=1700
 MaxDebris=12
 Capturable=no
@@ -757,12 +757,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission: New Frontier@@
-1=Civilians in the past months living around the Aegean sea have been going missing and we believe Nod is behind it.
-2=Intelligence reports they are testing forced mutation on human DNA with something they call "Project Genesis."@@
-3=The testing facility where these abominations are being done is located offshore so you are being given access to newly developed naval technology.@@ @@
-4=Produce a fleet and clear any Nod forces protecting the island, then use your amphibious transports to land a strike team on the island and evacuate the civilians safely.@@
-6=Objective: Locate and destroy the Nod testing facility and then safely evacuate all remaining civilian prisoners.@@
+1=Миссия: Новый рубеж.@@
+2=Гражданские, проживающие ранее месяцами на побережье Эгейского моря, пропали, и мы считаем, что Нод ответственно за это.
+3=Разведка докладывает, что Братство тестирует форсированные мутации на человеской ДНК, используя что-то, называемое "Проект Генезис".@@
+4=Тестовый комплекс, где проводятся эта мерзость, расположен на побережье. Посему вам дано разрешение на использование новейших морских технологий.@@@@
+5=Создайте флот и уничтожьте все войска Нод, защищающие остров, а затем используйте амфибии, чтобы высадить ударную группу на остров и безопасно эвакуировать гражданских.@@
+6=Задача: Найдите и уничтожьте тестовый комплекс Нод, а затем безопасно эвакуируйте всех пленённых гражданских.
+; 0=Mission: New Frontier@@
+; 1=Civilians in the past months living around the Aegean sea have been going missing and we believe Nod is behind it.
+; 2=Intelligence reports they are testing forced mutation on human DNA with something they call "Project Genesis."@@
+; 3=The testing facility where these abominations are being done is located offshore so you are being given access to newly developed naval technology.@@ @@
+; 4=Produce a fleet and clear any Nod forces protecting the island, then use your amphibious transports to land a strike team on the island and evacuate the civilians safely.@@
+; 6=Objective: Locate and destroy the Nod testing facility and then safely evacuate all remaining civilian prisoners.@@
 
 [Events]
 01000000=1,8,0,0
