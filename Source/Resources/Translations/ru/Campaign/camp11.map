@@ -1425,12 +1425,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=Mission: In Defense of Technology@@
-2=Now that the Tacitus is in the hands of our glorious leader Kane he has unlocked new technology for the Brotherhood to embrace.
-3=We've developed a stealth hub generator which allows us to not only cloak a single unit, but an entire base.
-4=Somehow GDI has learned of this and has sent a large assault wave to prevent us from activating it.
-5=Defend the new Stealth Generator as GDI forces begin to assault our position at daybreak.@@
-8=Objective: Defend the Stealth Generator Network until it becomes operational.
+1=Миссия: Защита технологии.@@
+2=Теперь, когда Тацит в наших руках, наш великий лидер, Кейн, открыл новую технологию, которую Братство может использовать.
+3=Мы разработали Центр управления стелс генераторами, который позволяет нам не только маскировать одну боевую единицу, но и целую базу.
+4=Каким-то образом ГСБ прознали это и отправили огромную штурмовую группу, чтобы предовратить тестирование.
+5=Защищайте новый генератор маскировки, когда ГСБ начнут осаду наших позиций на рассвете.@@
+6=Задача: Защищайте Сеть генерторов маскировки, пока она не включится.
+; 1=Mission: In Defense of Technology@@
+; 2=Now that the Tacitus is in the hands of our glorious leader Kane he has unlocked new technology for the Brotherhood to embrace.
+; 3=We've developed a stealth hub generator which allows us to not only cloak a single unit, but an entire base.
+; 4=Somehow GDI has learned of this and has sent a large assault wave to prevent us from activating it.
+; 5=Defend the new Stealth Generator as GDI forces begin to assault our position at daybreak.@@
+; 8=Objective: Defend the Stealth Generator Network until it becomes operational.
 
 [Events]
 01000000=1,8,0,0
