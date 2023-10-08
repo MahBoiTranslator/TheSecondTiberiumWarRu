@@ -227,7 +227,8 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Somewhere beneath the surface...
+0=√де-то под землЄй...
+;Somewhere beneath the surface...
 
 [Events]
 01000000=1,8,0,0
