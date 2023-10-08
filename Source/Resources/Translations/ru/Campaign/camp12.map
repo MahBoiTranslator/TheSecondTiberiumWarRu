@@ -736,12 +736,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission: Forgotten Past@@
-1=Our spies have reported large amounts of steel and weapons being shipped to a GDI base located in southern Spain.
-2=Normally this would not be alarming but reports indicate the entire area is on severe lockdown.@@
-3=Kane believes GDI is hiding something and has sent his top black hand assassin to scout the area.
-4=Use her Tiberium regenerative powers and personal cloaking device to complete the task.@@
-6=OBJECTIVE: Assist Khetana in uncovering GDI's secret.
+1=Миссия: Забытое прошлое.@@
+2=Наши шпионы заметили перевозку огромного количества стали и вооружения на базу ГСБ, расположенную в южной Испании.
+3=Это бы не стало тревожным звонком, но в докладе говорится, что весь регион не был закрыт.@@
+4=Кейн считает, что ГСБ скрывает что-то, и отправил своего лучшего ассасина Чёрной руки разведать регион.
+5=Используйте восстановительные возможности тиберия и переносное маскировочное устройство, чтобы выполнить задачу.@@
+6=Задача: Помогите Хитане раскрыть секреты ГСБ.
+; 0=Mission: Forgotten Past@@
+; 1=Our spies have reported large amounts of steel and weapons being shipped to a GDI base located in southern Spain.
+; 2=Normally this would not be alarming but reports indicate the entire area is on severe lockdown.@@
+; 3=Kane believes GDI is hiding something and has sent his top black hand assassin to scout the area.
+; 4=Use her Tiberium regenerative powers and personal cloaking device to complete the task.@@
+; 6=OBJECTIVE: Assist Khetana in uncovering GDI's secret.
 
 [Events]
 01000000=1,8,0,0
