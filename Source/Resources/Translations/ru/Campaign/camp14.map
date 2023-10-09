@@ -1036,13 +1036,20 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission: Hostile Takeover@@
-1=The nations leaders have gathered at the U.N. Headquarters to discuss the current crisis, little do they know that Kane himself has decided to attend.
-3=He will show the world that the true enemy of the people is Vega and his new regime of GDI.
-4=His ability to protect them is lie and the brotherhood shall then make them an offer they cannot refuse.@@
-5=While this is happening you are ordered to take out all GDI outposts within the city so when all is said and done our foothold here will be absolute.@@
-6=Do this commander and this will begin the end of the long supported Global Defense Initiative!@@
-7=Objective: Secure the Residential, Downtown, Industrial, and Harbor districts by destroying the outposts located in them.
+1=Миссия: Враждебный захват.@@
+2=Лидеры наций собрались в штабе ООН, чтобы обсудить текущий кризис. Они пока что не знают, что Кейн решил принять участие в собрании лично.
+3=Он покажет миру, что истинный враг человечества - это Вега и его новый режим в ГСБ.
+4=Его способность защитить их - это ложь, а Братство следает предложение, от которого они не смогут отказаться.@@
+5=Пока всё это будет происходить, вам приказано уничтожить все аванпосты ГСБ в городе, чтобы после всего сказаного и сделаного наше подспорье было нерушимо.@@
+6=Сделайте это командир, и положите начало конца долгой поддержки Глобального Совета Безопасности!@@
+7=Задача: Зачистите жилой, деловой, промышленный и прибрежный районы, уничтожив местные аванпосты.
+; 0=Mission: Hostile Takeover@@
+; 1=The nations leaders have gathered at the U.N. Headquarters to discuss the current crisis, little do they know that Kane himself has decided to attend.
+; 3=He will show the world that the true enemy of the people is Vega and his new regime of GDI.
+; 4=His ability to protect them is lie and the brotherhood shall then make them an offer they cannot refuse.@@
+; 5=While this is happening you are ordered to take out all GDI outposts within the city so when all is said and done our foothold here will be absolute.@@
+; 6=Do this commander and this will begin the end of the long supported Global Defense Initiative!@@
+; 7=Objective: Secure the Residential, Downtown, Industrial, and Harbor districts by destroying the outposts located in them.
 
 [Events]
 01000000=1,1,0,1
