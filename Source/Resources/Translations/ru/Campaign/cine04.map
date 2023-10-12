@@ -286,7 +286,8 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Egypt - Ancient Temple Ruins
+0=Египет - Руины древнего храма.
+; Egypt - Ancient Temple Ruins
 
 [Events]
 01000000=1,8,0,0

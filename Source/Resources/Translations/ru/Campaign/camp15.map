@@ -201,14 +201,14 @@ LightIntensity=0.001
 LightVisibility=800
 
 [NAGATE_A]
-Name=Gate
+Name=Ворота;Gate
 Armor=wood
 Strength=1000
 Selectable=no
 LegalTarget=no
 
 [NAGATE_B]
-Name=Gate
+Name=Ворота;Gate
 Armor=wood
 Strength=1000
 Selectable=no
@@ -241,7 +241,7 @@ Sight=0
 Passengers=1
 
 [SCIENTIST]
-Name=Evil Scientist
+Name=Злой Учёный;Evil Scientist
 
 [TSTLAMP]
 LightRedTint=0.5
@@ -482,11 +482,16 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Campaign: Operation Night Falcon@@
-1=Nod has constructed a secret missile development facility within the hills of Romania.
-2=Intelligence reports that it's one of the key facilities dedicated to Kane's Genesis project and the development of intercontinental ballistic missiles (ICBM).@@
-3=You are being sent GDI's most top level agent to infiltrate the facility and disarm Nod's nuclear capabilities.@@
-4=Objective: Infiltrate the missile research facility, deactivate all 3 missile silo's and then escape.
+1=Миссия: Операция "Ночной сокол".@@
+2=Нод построили секретный ракетный комплекс в горах Румынии.
+3=Разведка докладывает, что это один из ключевых комплексов, предназначенных под проект "Генезис", который разрабатывает межконтинентальные баллистические ракеты (МБР).@@
+4=Вам отправили одного из лучших агентов, чтобы проникнуть в комплекс и нейтрализовать потенциальные ядерные возможности Нод.@@
+5=Задача: Проникните в ракетный исследовательский комплекс, деактивируйте 3 ракетных шахты, а затем сбежите.
+; 0=Campaign: Operation Night Falcon@@
+; 1=Nod has constructed a secret missile development facility within the hills of Romania.
+; 2=Intelligence reports that it's one of the key facilities dedicated to Kane's Genesis project and the development of intercontinental ballistic missiles (ICBM).@@
+; 3=You are being sent GDI's most top level agent to infiltrate the facility and disarm Nod's nuclear capabilities.@@
+; 4=Objective: Infiltrate the missile research facility, deactivate all 3 missile silo's and then escape.
 
 [CellTags]
 102075=01000007
