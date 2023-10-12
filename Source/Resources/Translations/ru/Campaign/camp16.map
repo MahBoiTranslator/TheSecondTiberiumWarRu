@@ -651,12 +651,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission: Catastrophe@@
-1=In total there are seven temple ruins known to exist that contain knowledge of the origin of Tiberium.
-2=Sadly Kane beat us to six of them, but we've managed to locate and secure the last one.
-3=We must find the link between the knowledge these temples hold, the Tacitus, and Kane's Genesis project.
-4=Defend the temple site at any cost and hopefully it will buy us enough time to find a way to stop that madman once and for all.@@
-7=Objective: Protect the last temple site by any means necessary.
+1=Миссия: Катастрофа.@@
+2=В целом известно о существовании 7 разрушенных храмов, которые содержат знания о происхождении тиберия.
+3=К сожалению, Кейн захватил 6 из них, но мы нашли и отбили последний.
+4=Мы должны найти связи между знаниями внутри храмов, Тацитом, а также кейновский проектом "Генезис".
+5=Защищайте последний храм любой ценой. Мы надеемся, что оборона храма даст нам достаточно времени, чтобы найти способ остановить этого безумца раз и навсегда.@@
+6=Задача: Защитите последний храм любой ценой.
+; 0=Mission: Catastrophe@@
+; 1=In total there are seven temple ruins known to exist that contain knowledge of the origin of Tiberium.
+; 2=Sadly Kane beat us to six of them, but we've managed to locate and secure the last one.
+; 3=We must find the link between the knowledge these temples hold, the Tacitus, and Kane's Genesis project.
+; 4=Defend the temple site at any cost and hopefully it will buy us enough time to find a way to stop that madman once and for all.@@
+; 7=Objective: Protect the last temple site by any means necessary.
 
 [Events]
 01000000=1,6,0,0
