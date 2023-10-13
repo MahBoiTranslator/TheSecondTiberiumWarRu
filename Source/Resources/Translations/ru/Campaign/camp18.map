@@ -188,12 +188,18 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Mission: In The Dark@@
-1=Talk of discord has risen amongst our brothers and sisters after the bio-weapon attack on innocent civilians.
-2=Not many oppose him openly but there are a few willing to defect.
-3=Khetana has scrounged up a loyal rebel team willing to assault Kane's temple.
-4=Find a way through the ice caverns and into the base, locate his temple and destroy it.
-5=@@Objective: Locate and destroy the Temple of Nod.
+1=Миссия: Во тьме.@@
+2=После нападения с применением биооружия на мирных граждан среди наших братьев и сестёр начались разговоры о раздоре.
+3=Немногие противостояли применению биооружия открыто, но были и те, кто готов к дезертирству.
+4=Китана отсыкала повстанцев, готовых осадить храм Кейна.
+5=Проложите путь через ледяные пещеры к базе, найдите храм и уничтожьте его.@@
+6=Задача: Найдите и уничтожьте Храм Нод.
+; 0=Mission: In The Dark@@
+; 1=Talk of discord has risen amongst our brothers and sisters after the bio-weapon attack on innocent civilians.
+; 2=Not many oppose him openly but there are a few willing to defect.
+; 3=Khetana has scrounged up a loyal rebel team willing to assault Kane's temple.
+; 4=Find a way through the ice caverns and into the base, locate his temple and destroy it.
+; 5=@@Objective: Locate and destroy the Temple of Nod.
 
 [Events]
 01000000=1,8,0,0
