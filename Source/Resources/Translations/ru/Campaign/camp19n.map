@@ -651,7 +651,9 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=
+1=Финальная миссия: Регенезис.@@
+2=
+=Задача: Убейте Кейна, уничтожив Храм Нод.
 ; 0=Final Mission: Regenesis@@
 ; 1=Kane has invited us to his Genesis base in Croatia and it's undoubtedly a trap.
 ; 2=If we hope to defeat him we must twist this event into our favor.
