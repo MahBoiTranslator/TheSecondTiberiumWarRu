@@ -461,11 +461,16 @@ PercentBuilt=100
 PlayerControl=no
 
 [Briefing]
-0=Mission: Atrocity@@
-1=Rejoice brother for not only is the masters vision becoming a reality, the infidel Vega has been killed due to a ship core overload.
-2=Fate as it seams has deemed us the victor and now we are able to bestow our gift unto the world.@@
-3=Your ordered to discharge a small payload of a genetic altering substance on a civilian population still loyal to GDI.
-4=Deploy the  --------- thin the city center ------ deto -- nate ----- Geni -- sis ------@@
+1=Миссия: Жестокость.@@
+2=Возрадуйтесь, братья, ибо не только план владыки становится реальностью, но и неверный "Вега" погиб из-за перегрузки ядра корабля.
+3=Судьба, как видно, признала нас победителями, и теперь мы можем преподнести свой подарок миру.@@
+4=Вам приказано сбросить небольшой боезапас вещества, изменяющего генетику, на гражданское население, всё ещё лояльное ГСБ.
+5=Разверните --------- в центре города ------ взор -- вите ------ Гене -- зис ------@@
+; 0=Mission: Atrocity@@
+; 1=Rejoice brother for not only is the masters vision becoming a reality, the infidel Vega has been killed due to a ship core overload.
+; 2=Fate as it seams has deemed us the victor and now we are able to bestow our gift unto the world.@@
+; 3=Your ordered to discharge a small payload of a genetic altering substance on a civilian population still loyal to GDI.
+; 4=Deploy the  --------- thin the city center ------ deto -- nate ----- Geni -- sis ------@@
 
 [CellTags]
 
