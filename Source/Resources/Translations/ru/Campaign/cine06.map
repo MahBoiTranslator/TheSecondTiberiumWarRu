@@ -215,7 +215,7 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Ёпицентр
+0=Ёпицентр.
 ;- Ground Zero -@@
 
 [Events]
