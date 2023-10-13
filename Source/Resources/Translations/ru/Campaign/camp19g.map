@@ -665,11 +665,12 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Final Mission: Regenesis@@
-1=We've located Kane's genesis base within Croatia and have sent what remaining forces we have left.
-2=I don't need to tell you commander but this is our last assault, If we are unable to stop Kane here and now, we have failed.@@
-3=Use everything at your disposal to see victory, for GDI, for the fallen, and for the future.
-4=@@Objective: Kill Kane by destroying the Temple of Nod.
+1=
+; 0=Final Mission: Regenesis@@
+; 1=We've located Kane's genesis base within Croatia and have sent what remaining forces we have left.
+; 2=I don't need to tell you commander but this is our last assault, If we are unable to stop Kane here and now, we have failed.@@
+; 3=Use everything at your disposal to see victory, for GDI, for the fallen, and for the future.
+; 4=@@Objective: Kill Kane by destroying the Temple of Nod.
 
 [CellTags]
 109214=01000068

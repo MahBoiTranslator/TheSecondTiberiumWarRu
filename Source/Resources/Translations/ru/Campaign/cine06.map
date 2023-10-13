@@ -215,7 +215,8 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=- Ground Zero -@@
+0=Ёпицентр
+;- Ground Zero -@@
 
 [Events]
 01000000=1,13,0,0

@@ -651,13 +651,14 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-0=Final Mission: Regenesis@@
-1=Kane has invited us to his Genesis base in Croatia and it's undoubtedly a trap.
-2=If we hope to defeat him we must twist this event into our favor.
-3=Assist Khetana and her rebel team to capture an outpost within the outer region.
-4=Use this base to construct an army strong enough to assault him head on.
-5=If we are to succeed we must take advantage of every opportunity that comes our way. May luck be on our side.
-6=@@Objective: Kill Kane by destroying his Temple of Nod.
+1=
+; 0=Final Mission: Regenesis@@
+; 1=Kane has invited us to his Genesis base in Croatia and it's undoubtedly a trap.
+; 2=If we hope to defeat him we must twist this event into our favor.
+; 3=Assist Khetana and her rebel team to capture an outpost within the outer region.
+; 4=Use this base to construct an army strong enough to assault him head on.
+; 5=If we are to succeed we must take advantage of every opportunity that comes our way. May luck be on our side.
+; 6=@@Objective: Kill Kane by destroying his Temple of Nod.
 
 [CellTags]
 109214=01000068

@@ -736,7 +736,8 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=- Mutant Camp -
+1=Деревня мутантов.
+;- Mutant Camp -
 
 [CellTags]
 
