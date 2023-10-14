@@ -863,7 +863,7 @@ IgnoreGlobalAITriggers=no
 TiberiumDeathToVisceroid=no
 
 [Briefing]
-1=- Солнце восходит над новым поколением как шрамы прошлого над страницами истории. -
+1=Солнце восходит над новым поколением, как шрамы прошлого над страницами истории.
 ; - The sun rises upon a new generation as the scars of the past fade into the pages of history. -
 
 [Events]
