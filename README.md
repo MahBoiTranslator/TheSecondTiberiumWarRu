@@ -17,7 +17,7 @@
 	- захардкоженные описания горячих клавиш
 
 ## Описание установки
-0. Скачайте мод [The Second Tiberium War](https://www.moddb.com/mods/the-second-tiberium-war)
+0. Скачайте мод [The Second Tiberium War](https://www.moddb.com/mods/the-second-tiberium-war);
 1. Скопируйте файлы локализатора из папки `Source` репозитория в папку мода, подтверждая слияние папок и замену файлов;
 2. Запустите клиент и включите русский язык в настройках клиента `Options → Display → Language → Russian`;
 3. Согласитесь с перезапуском клиента;
