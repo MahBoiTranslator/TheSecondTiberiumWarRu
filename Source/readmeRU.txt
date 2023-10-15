@@ -25,7 +25,6 @@
 4. Прочая информация
 	Все последние новости по локализатору и моду появляются в группах в ВК:
 		https://vk.com/cncseries
-		https://vk.com/tiberiansun
 
 	Локализатор был скачен с:
 		https://github.com/MahBoiTranslator/TheSecondTiberiumWarRu/
