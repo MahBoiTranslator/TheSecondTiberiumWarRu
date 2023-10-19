@@ -26,7 +26,7 @@
 
 ## Благодарности
 
-	Dmitry_Volkov_T-666 : Помощь в навигации по Shape Builder
+	Dmitry_Volkov_T-666 : Помощь в навигации по SHP Builder
 	Siberian Studio     : За первичную версию шрифтов
 
 ## Поддержка
