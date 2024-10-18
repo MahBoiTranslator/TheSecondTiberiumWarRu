@@ -1,5 +1,7 @@
 @echo off
 
+call zBuild.bat
+
 : Копирование файлов в папку _Test
 mkdir _Test
 xcopy /h /y /c /r /s Source\ _Test\
