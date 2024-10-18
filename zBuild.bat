@@ -9,7 +9,7 @@ mkdir Build
 
 echo Copy files...
 xcopy Source\* Build\* /e /y
-
+timeout /t 3
 mkdir %defaultfolder%
 
 for /f "tokens=*" %%f in ('dir "%mixfolder%\" /a:d /b') do (
